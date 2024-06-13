@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New,Chrome 125.0.0.0,,,13-06-2024 12:18:01,13-06-2024 12:22:11,4m - 9.531s,FAILED
+,,,,,,,
+Test Cases/New/Test 2,Chrome 125.0.0.0,,,13-06-2024 12:21:10,13-06-2024 12:22:10,59.640s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 12:21:10,13-06-2024 12:21:13,2.318s,PASSED
+"navigateToUrl(""https://www.amazon.in/?&tag=googhydrabk1-21&ref=pd_sl_7hz2t19t5c_e&adgrpid=155259815513&hvpone=&hvptwo=&hvadid=674842289437&hvpos=&hvnetw=g&hvrand=4574473646603795798&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301555&hvtargid=kwd-10573980&hydadcr=14453_2316415&gad_source=1"")",Chrome 125.0.0.0,,,13-06-2024 12:21:13,13-06-2024 12:21:34,21.394s,PASSED
+"click(findTestObject(""Object Repository/Test1/Page_Amazon Fashion Clothing, Footwear and _e99275/img_concat(Women, , s Clothing)_a-dynamic-i_832751""))",Chrome 125.0.0.0,,,13-06-2024 12:21:34,13-06-2024 12:22:10,35.912s,FAILED
+,,,,,,,
+Test Cases/New/Test1,Chrome 125.0.0.0,,,13-06-2024 12:22:10,13-06-2024 12:22:10,0.034s,PASSED
+return null,Chrome 125.0.0.0,,,13-06-2024 12:22:10,13-06-2024 12:22:10,0.000s,PASSED
